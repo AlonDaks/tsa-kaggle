@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>6_aa06c0480348a145cbd15233b623b1a8.png</filename>
+	<path>/Users/gwynnedaks/Desktop/png_10_12/6/6_aa06c0480348a145cbd15233b623b1a8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>465</ymin>
+			<xmax>374</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

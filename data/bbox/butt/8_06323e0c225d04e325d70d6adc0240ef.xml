@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>8</folder>
+	<filename>8_06323e0c225d04e325d70d6adc0240ef.png</filename>
+	<path>/home/alon/sda1/tsa-kaggle/data/raw/stage1/aps_png/8/8_06323e0c225d04e325d70d6adc0240ef.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>385</ymin>
+			<xmax>346</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

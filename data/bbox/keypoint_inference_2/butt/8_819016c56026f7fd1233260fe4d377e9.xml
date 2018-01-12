@@ -1,0 +1,26 @@
+<annotation>
+    <folder/>
+    <filename/>
+    <path/>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>660</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>threat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>175</xmin>
+            <ymin>372</ymin>
+            <xmax>343</xmax>
+            <ymax>450</ymax>
+        </bndbox>
+    </object>
+</annotation>

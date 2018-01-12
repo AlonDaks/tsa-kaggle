@@ -1,0 +1,26 @@
+<annotation>
+	<folder>13</folder>
+	<filename>13_d27f9e1fa0c2ca9ddae647815666f240.png</filename>
+	<path>/Users/alondaks/Desktop/png_aps_6/13/13_d27f9e1fa0c2ca9ddae647815666f240.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>310</ymin>
+			<xmax>191</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>42</folder>
+	<filename>42_b54bd58453658571932fe8150f95855e.png</filename>
+	<path>/home/alon/sda1/tsa-kaggle/data/raw/stage1/png_1/42/42_b54bd58453658571932fe8150f95855e.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

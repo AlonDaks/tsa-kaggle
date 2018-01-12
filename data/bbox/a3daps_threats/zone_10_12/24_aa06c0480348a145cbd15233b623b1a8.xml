@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>24</folder>
+	<filename>24_aa06c0480348a145cbd15233b623b1a8.png</filename>
+	<path>/Volumes/CRUZER/png_10_12/24/24_aa06c0480348a145cbd15233b623b1a8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>460</ymin>
+			<xmax>275</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

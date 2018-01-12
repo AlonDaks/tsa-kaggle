@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ce658d4b38ecb750d51fd31940376122</folder>
+	<filename>42_ce658d4b38ecb750d51fd31940376122.png</filename>
+	<path>/home/alon/Desktop/png_to_check/ce658d4b38ecb750d51fd31940376122/42_ce658d4b38ecb750d51fd31940376122.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>580</ymin>
+			<xmax>267</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

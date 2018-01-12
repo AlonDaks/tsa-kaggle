@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>56</folder>
+	<filename>56_3b498cfa050ec05a7ca5629b3c2b9a0a.png</filename>
+	<path>/home/alon/sda1/tsa-kaggle/data/raw/stage1/png_15/56/56_3b498cfa050ec05a7ca5629b3c2b9a0a.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>607</ymin>
+			<xmax>196</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

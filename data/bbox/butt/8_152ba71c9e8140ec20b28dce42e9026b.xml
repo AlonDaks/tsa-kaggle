@@ -1,0 +1,26 @@
+<annotation>
+	<folder>aps_8</folder>
+	<filename>8_152ba71c9e8140ec20b28dce42e9026b.png</filename>
+	<path>/Users/alondaks/Desktop/aps_8/8_152ba71c9e8140ec20b28dce42e9026b.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>377</ymin>
+			<xmax>345</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

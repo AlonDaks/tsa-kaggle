@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tmp_png</folder>
+	<filename>60_f96fe81c61c951792a43cb4851ca3829.png</filename>
+	<path>/home/alon/Desktop/tmp_png/60_f96fe81c61c951792a43cb4851ca3829.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>262</ymin>
+			<xmax>258</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

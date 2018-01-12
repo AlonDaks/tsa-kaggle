@@ -1,0 +1,26 @@
+<annotation>
+	<folder>52</folder>
+	<filename>52_cb929d44cf5baada652d69d31991003f.png</filename>
+	<path>/Users/alondaks/Desktop/png_14_16/52/52_cb929d44cf5baada652d69d31991003f.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>581</ymin>
+			<xmax>254</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

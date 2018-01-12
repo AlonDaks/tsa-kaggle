@@ -1,0 +1,26 @@
+<annotation>
+	<folder>16</folder>
+	<filename>16_e4169734e5c2599df873d5e1bb019766.png</filename>
+	<path>/Users/gwynnedaks/Desktop/png_10_12/16/16_e4169734e5c2599df873d5e1bb019766.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>375</ymin>
+			<xmax>334</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

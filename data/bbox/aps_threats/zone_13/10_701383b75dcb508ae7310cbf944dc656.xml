@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>10_701383b75dcb508ae7310cbf944dc656.png</filename>
+	<path>/home/alon/sda1/tsa-kaggle/data/raw/stage1/png_13_aps/10/10_701383b75dcb508ae7310cbf944dc656.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elbow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>555</ymin>
+			<xmax>259</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

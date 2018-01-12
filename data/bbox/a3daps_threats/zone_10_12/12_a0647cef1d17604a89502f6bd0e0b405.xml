@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>12</folder>
+	<filename>12_a0647cef1d17604a89502f6bd0e0b405.png</filename>
+	<path>/Users/gwynnedaks/Desktop/png_10_12/12/12_a0647cef1d17604a89502f6bd0e0b405.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>457</ymin>
+			<xmax>394</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>9</folder>
+	<filename>9_6578189b2909138a987514791005ea35.png</filename>
+	<path>/Users/alondaks/Desktop/png_aps_6/9/9_6578189b2909138a987514791005ea35.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>250</ymin>
+			<xmax>306</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

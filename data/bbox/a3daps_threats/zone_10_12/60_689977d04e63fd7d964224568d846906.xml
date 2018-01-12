@@ -1,0 +1,26 @@
+<annotation>
+	<folder>60</folder>
+	<filename>60_689977d04e63fd7d964224568d846906.png</filename>
+	<path>/Volumes/CRUZER/png_10_12/60/60_689977d04e63fd7d964224568d846906.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>660</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>356</ymin>
+			<xmax>369</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
