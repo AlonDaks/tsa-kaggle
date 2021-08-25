@@ -68,7 +68,7 @@ sklearn==0.0
 snowballstemmer==1.2.1
 Sphinx==1.6.5
 sphinxcontrib-websupport==1.0.1
-tensorflow-gpu==1.4.0
+tensorflow-gpu==2.5.1
 tensorflow-tensorboard==0.4.0rc3
 termcolor==1.1.0
 terminado==0.8.1
